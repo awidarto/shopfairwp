@@ -19,10 +19,10 @@
 define('DB_NAME', 'shopfair');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'shopfair');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'shopfairdb');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
