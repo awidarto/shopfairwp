@@ -11,3 +11,33 @@
 
 /* =Theme customization starts here. Any CSS code entered here will overwrite the parent's CSS.
 -------------------------------------------------------------- */
+body{
+    font-size: 12px;
+}
+
+.cb-grid-4 .cb-article-meta h2, .cb-grid-5 .cb-article-meta h2, .cb-grid-6 .cb-article-meta h2{
+    font-size: 14px;
+}
+
+.cb-search .cb-search-field{
+    height: 45px;
+}
+
+.cb-search .cb-search-submit{
+    height: 45px;
+    width: 45px;
+}
+
+.page-navigation .cb-page-navi li a,
+.wp-prev-next .cb-page-navi li a{
+    padding:4px 12px;
+}
+
+.page-navigation .cb-page-navi .cb-current,
+.wp-prev-next .cb-page-navi .cb-current{
+    padding:4px 12px;
+}
+
+.page-navigation .cb-page-navi li, .wp-prev-next .cb-page-navi li{
+    font-size: 12px;
+}
